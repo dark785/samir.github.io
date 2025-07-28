@@ -2,7 +2,7 @@
 particlesJS("particles-js", {
     "particles": {
         "number": {
-            "value": 80,
+            "value": 100,
             "density": { "enable": true, "value_area": 800 }
         },
         "color": { "value": "#ffffff" },
@@ -11,8 +11,7 @@ particlesJS("particles-js", {
             "stroke": { "width": 0, "color": "#000000" }
         },
         "opacity": {
-            "value": 0.5,
-            "random": false
+            "value": 0.5
         },
         "size": {
             "value": 3,
